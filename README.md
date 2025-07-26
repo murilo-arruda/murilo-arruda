@@ -9,4 +9,4 @@ I'm an very creative person trying to be better every day. Also i'm full stack d
 
 If you want to talk to me about programming and technology or if you just want to talk, feel free to get in touch.
 
-[Linkedin](https://www.linkedin.com/in/muriloarruda/) [Twitter](https://twitter.com/passok11) Discord: passocabr#0409
+[Linkedin](https://www.linkedin.com/in/muriloarruda/) Discord: passocabr#0409
