@@ -1,12 +1,9 @@
-### Hello there 👋
+## 🧙‍♂️ Software Engineer Specialist  
+Turning ideas into **scalable web magic** ✨ (a.k.a. *code wizardry*).  
+Architecting, coding, and shipping from zero to production.  
 
+**Tech stack:**  
+`JavaScript` · `TypeScript` · `Vue` · `React` · `Nest` · `Next` · `Nuxt` · `Docker` · `Kubernetes` · `AWS` · `GCP`  
 
-
-#### A little about me:
-
-I'm an very creative person trying to be better every day. Also i'm full stack developer using a big variety of modern tools and always learning something new.
-
-
-If you want to talk to me about programming and technology or if you just want to talk, feel free to get in touch.
-
-[Linkedin](https://www.linkedin.com/in/muriloarruda/) Discord: passocabr#0409
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarruda/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilo-arruda)
