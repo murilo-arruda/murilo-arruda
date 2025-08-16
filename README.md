@@ -1,6 +1,7 @@
-## 🧙‍♂️ Software Engineer Specialist
+## 🧙‍♂️ Software Engineer Specialist  ( _code wizardry_) 
 
-Turning ideas into **scalable web magic** ✨ (a.k.a. _code wizardry_).  
+Turning ideas into **scalable web magic** ✨
+
 Architecting, coding, and shipping from zero to production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarruda/)
